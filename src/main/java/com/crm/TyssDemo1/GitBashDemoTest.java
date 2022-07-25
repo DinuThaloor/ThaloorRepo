@@ -5,5 +5,6 @@ public class GitBashDemoTest
 	public void sampleTest()
 {
 System.out.println("sample class");
+System.out.println("hello gentleman");
 }
 }
